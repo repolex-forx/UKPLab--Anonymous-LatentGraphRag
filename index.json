@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "Anonymous-LatentGraphRag",
+  "versions": [
+    {
+      "commit": "6d3fcb4eefc0c11421dd67a4d4a9aa44aa02f5d6",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:23:43.814941+00:00"
+    }
+  ]
+}
